@@ -10,6 +10,6 @@ https://user-images.githubusercontent.com/82247833/200467617-82c5d478-da9e-4d9b-
 * Promises 
 * Async/ Await
 * Fetch
-* API
+* API.   
 
 - [Scrimba](https://scrimba.com/allcourses)
